@@ -1,0 +1,5 @@
+werkzeug
+opencv-python
+mediapipe
+cmake
+dlib
